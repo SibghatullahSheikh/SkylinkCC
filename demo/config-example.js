@@ -8,4 +8,4 @@ Demo.API = {
   apiKey: XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX,
   defaultRoom: 'MY_DEFAULT_ROOM',
   lobbyRoom: 'MAIN_LOBBY'
-};Í
+};

@@ -33,7 +33,7 @@ function SkylinkCC() {
     log.error('Skylink is not loaded. Please load Skylink first before SkylinkCC.');
   }
 }
-// Initialize SkylinkCC as Skyway and start
+// Initialize SkylinkCC as Skylink and start
 SkylinkCC.prototype = new Skylink();
 this.SkylinkCC = SkylinkCC;
 

@@ -1,4 +1,4 @@
-/*! skylinkcc - v0.4.0 - 2014-12-15 */
+/*! skylinkcc - v0.4.0 - 2014-12-16 */
 
 (function() {
 /**
@@ -30,7 +30,7 @@ function SkylinkCC() {
     log.error('Skylink is not loaded. Please load Skylink first before SkylinkCC.');
   }
 }
-// Initialize SkylinkCC as Skyway and start
+// Initialize SkylinkCC as Skylink and start
 SkylinkCC.prototype = new Skylink();
 this.SkylinkCC = SkylinkCC;
 
